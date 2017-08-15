@@ -1,3 +1,7 @@
+# OLD REPOSITORY
+
+**moved to** https://github.com/openSUSE/lftp-concourse-resource
+
 # LFTP Resource
 
 A Concourse CI resource to interface with lftp.
